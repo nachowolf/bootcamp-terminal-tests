@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert")
-const countAllPaarl = require("../bootcamp-functions/countAllPaarl")
+const countAllPaarl = require("../src/countAllPaarl")
 
 describe("countAllPaarl function from bootcamp", function(){
 

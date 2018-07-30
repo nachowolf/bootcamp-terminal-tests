@@ -1,5 +1,5 @@
 "use strict"
-const countAllFromTown = require("../bootcamp-functions/countAllFromTown.js");
+const countAllFromTown = require("../src/countAllFromTown.js");
 const assert = require("assert");
 
 describe("countAllFromTown function from bootcamp", function(){

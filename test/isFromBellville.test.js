@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const isFromBellville = require("../bootcamp-functions/isFromBellville");
+const isFromBellville = require("../src/isFromBellville");
 
 describe("isFromBellville function", function() {
 

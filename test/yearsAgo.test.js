@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const yearsAgo = require("../bootcamp-functions/yearsAgo.js");
+const yearsAgo = require("../src/yearsAgo.js");
 
 describe("yearsAgo function from bootcamp", function(){
 
