@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const isWeekday = require("./src/isWeekday.js");
+const isWeekday = require("../src/isWeekday.js");
 
 describe("isWeekday function from bootcamp", function(){
 

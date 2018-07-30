@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const fromWhere = require("./src/fromWhere.js");
+const fromWhere = require("../src/fromWhere.js");
 
 
 describe("fromWhere function from bootcamp", function(){

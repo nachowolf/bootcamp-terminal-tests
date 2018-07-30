@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const mostProfitableDepartment = require("./src/mostProfitableDepartment.js")
+const mostProfitableDepartment = require("../src/mostProfitableDepartment.js")
 
 describe("mostProfitableDepartment function from bootcamp", function(){
   it("should return outdoor", function() {

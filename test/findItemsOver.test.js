@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const findItemsOver = require("./src/findItemsOver.js");
+const findItemsOver = require("../src/findItemsOver.js");
 
 describe("findItemsOver function from bootcamp", function(){
 

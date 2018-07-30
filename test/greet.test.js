@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const greet = require("./src/greet");
+const greet = require("../src/greet");
 
 describe("The greet function", function(){
 

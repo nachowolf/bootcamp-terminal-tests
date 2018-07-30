@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const countRegNumber = require("./src/countRegNumber.js");
+const countRegNumber = require("../src/countRegNumber.js");
 
 describe("countRegNumber function from bootcamp", function(){
 

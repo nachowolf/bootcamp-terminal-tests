@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const transportFee = require("./src/transportFee.js");
+const transportFee = require("../src/transportFee.js");
 
 describe("transportFee function from bootcamp", function(){
 

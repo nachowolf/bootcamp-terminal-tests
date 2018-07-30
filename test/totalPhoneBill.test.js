@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const totalPhoneBill = require("./src/totalPhoneBill.js");
+const totalPhoneBill = require("../src/totalPhoneBill.js");
 
 describe("totalPhoneBill function from bootcamp", function() {
 
