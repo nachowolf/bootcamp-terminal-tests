@@ -1,6 +1,6 @@
 "use strict"
 const assert = require("assert");
-const regCheck = require("../src/regCheck");
+const regCheck = require("./src/regCheck");
 
 describe("regCheck function from bootcamp", function(){
 
