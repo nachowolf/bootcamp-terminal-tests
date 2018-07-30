@@ -1,7 +1,7 @@
 {
   "name": "bootcamp-terminal-tests",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Build Status](https://travis-ci.org/nachowolf/bootcamp-terminal-tests.svg?branch=master)](https://travis-ci.org/nachowolf/bootcamp-terminal-tests)",
   "main": "greet.js",
   "directories": {
     "test": "mocha"
@@ -22,5 +22,6 @@
   "homepage": "https://github.com/nachowolf/bootcamp-terminal-tests#readme",
   "devDependencies": {
     "mocha": "^5.2.0"
-  }
+  },
+  "dependencies": {}
 }
